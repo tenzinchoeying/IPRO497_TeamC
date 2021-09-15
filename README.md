@@ -1,11 +1,11 @@
 # IPRO497_TeamC
-##Illinois Tech
-##IPRO 497-616
+## Illinois Tech
+## IPRO 497-616
 
 
 **Team C**
--Enis Masic
--Safa Slote
--Tenzin Choeying
--Thomas Carmody
--Verdant Vashishtha
+- Enis Masic
+- Safa Slote
+- Tenzin Choeying
+- Thomas Carmody
+- Verdant Vashishtha
