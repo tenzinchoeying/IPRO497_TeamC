@@ -4,7 +4,7 @@
 
 
 **Team C**
-- Enis Masic
+- Enis Masic - Hello
 - Safa Slote
 - Tenzin Choeying
 - Thomas Carmody
