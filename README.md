@@ -8,4 +8,4 @@
 - Safa Slote
 - Tenzin Choeying
 - Thomas Carmody
-- Verdant Vashishtha
+- Vedant Vashishtha - Test push
