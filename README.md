@@ -4,8 +4,8 @@
 
 
 **Team C**
-- Enis Masic - Hello
+- Enis Masic
 - Safa Slote
 - Tenzin Choeying
 - Thomas Carmody
-- Vedant Vashishtha - Test push
+- Vedant Vashishtha
