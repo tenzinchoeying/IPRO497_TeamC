@@ -1,3 +1,31 @@
+## Persona 1
+
+**Name**
+- Mike Adams
+
+**Demographics**
+
+-   21 years old 
+
+-   Lives in Cunningham Hall 
+
+-   Undergraduate Student Studying Computer Science at IIT.
+
+**Goal**
+
+-   Have a working machine that's not taken to clean his clothes.
+
+**How can we help**
+
+-   Create a laundry app that checks the status of the laundry machines to let Mike know when they are available. If the machines are broken, have a feature that contacts the maintenance team.
+
+**Story**
+
+- Mike, 21, is a Computer Science student at IIT. Mike is an on-campus resident who spends the most of his time on his phone or doing schoolwork on his laptop. When he isn't doing schoolwork, he prefers to spend his days at the gym. Mike washes his clothes frequently as a result of his physical activity. When he does go out to wash his laundry, he frequently has the problem of having to wait for one of the machines to finish because there aren't any other machines available. Other times Mike has to wait for maintenance to fix the machines because they are broken, and it can take days or weeks for the maintenance crew to respond. This irritates Mike since all he wants to do is clean his clothing, but he can't because it's either been taken or broken, and he wishes there was a mechanism in place to address the problem.
+
+-----------------------------
+
+
 ## Top Two to Three Scenarios
 -----------------------------
 
@@ -13,6 +41,8 @@ Mike notices that there is a washing machine that is full of clothes and has fin
 
 Mike lives in Kacek and needs to do his laundry. He opens the app and notices that all the washing machines in Kacek are occupied, but really needs a clean pair of socks to wear tomorrow. He then uses the app to check the availability of machines in other buildings near him, and notices there is a washer open for use in Cunningham. He then brings his clothes over to Cunningham and can now have a fresh pair of socks tomorrow! 🧦
 
+-----------------------------
+
 ## Team Members
 ----------------
 
@@ -24,6 +54,7 @@ Mike lives in Kacek and needs to do his laundry. He opens the app and notices th
 | Safa Slote | Chicago | 0 |
 | Vedant Vashishtha | Chicago | 0 |
 
+-----------------------------
 
 ## Team Working Agreement
 -------------------------
