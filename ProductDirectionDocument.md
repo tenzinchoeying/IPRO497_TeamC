@@ -1,5 +1,7 @@
 ## Persona 1
 
+![Persona 1](/p1.png)
+
 **Name**
 - Mike Adams
 
