@@ -3,7 +3,7 @@
 ![Persona 1](/images/p1.png)
 
 **Name**
-- Mike Adams
+-   Mike Adams
 
 **Demographics**
 
@@ -11,7 +11,7 @@
 
 -   Lives in Cunningham Hall 
 
--   Undergraduate Student Studying Computer Science at IIT.
+-   Undergraduate Student Studying Computer Science at IIT
 
 **Goal**
 
@@ -23,10 +23,90 @@
 
 **Story**
 
-- Mike, 21, is a Computer Science student at IIT. Mike is an on-campus resident who spends the most of his time on his phone or doing schoolwork on his laptop. When he isn't doing schoolwork, he prefers to spend his days at the gym. Mike washes his clothes frequently as a result of his physical activity. When he does go out to wash his laundry, he frequently has the problem of having to wait for one of the machines to finish because there aren't any other machines available. Other times Mike has to wait for maintenance to fix the machines because they are broken, and it can take days or weeks for the maintenance crew to respond. This irritates Mike since all he wants to do is clean his clothing, but he can't because it's either been taken or broken, and he wishes there was a mechanism in place to address the problem.
+-   Mike, 21, is a Computer Science student at IIT. Mike is an on-campus resident who spends the most of his time on his phone or doing schoolwork on his laptop. When he isn't doing schoolwork, he prefers to spend his days at the gym. Mike washes his clothes frequently as a result of his physical activity. When he does go out to wash his laundry, he frequently has the problem of having to wait for one of the machines to finish because there aren't any other machines available. Other times Mike has to wait for maintenance to fix the machines because they are broken, and it can take days or weeks for the maintenance crew to respond. This irritates Mike since all he wants to do is clean his clothing, but he can't because it's either been taken or broken, and he wishes there was a mechanism in place to address the problem.
 
 -----------------------------
 
+## Persona 2
+
+![Persona 2](/images/p2.png)
+
+**Name**
+-   Sally Hanson
+
+**Demographics**
+
+-   19 years old
+
+-   Lives in Kacek Hall
+
+-   Undergraduate Student studying Chemical Engineering at IIT
+
+-   Working part-time as a TA
+
+**Goal**
+
+-   Have laundry reserved for the time she needs it.
+
+**How can we help**
+
+-   Develop an app that allows students to reserve a specific time slot to use a laundry machine.
+
+**Story**
+
+-   Sally’s lives in Kacek Hall. From Monday to Friday, she is out of her room most of the day due to classes. She leaves her dorm around 8 AM and comes back around 5 PM. When she gets back, she goes to the dining hall for dinner and hangs out with her friends. She comes back around 8 PM and gets ready for the night. When the weekend comes around, she goes to the library on Saturday to finish her homework. Every Sunday of the week, she does Laundry at 9 PM. Sally gets very annoyed that a lot of students do their laundry on Sunday, but she can’t do anything about it since that’s the only day and time that works for her from her busy schedule. She comes downstairs only to see that all the washers are full, 2 are out of order, and others are sitting with clothes, waiting for someone to pick them up. She gets frustrated and takes out clothes from a washer that has been done. She is very uncomfortable in doing this because she feels filthy from touching someone else’s undergarments, and is angry that her washer wasn’t available at the exact time she does her laundry.
+
+
+-----------------------------
+
+## Problem Statements
+
+### Problem Statement #1
+
+The current laundry system at IIT is causing a major inconvenience to residents on campus due to lack of machine availability, timeliness on removing clothing, and easily reporting maintenance issues. However, with our solution, on-campus IIT students can make reservations, check the status of the laundry machines, and get frequent notifications of their laundry cycle to maximize free time for themselves. 
+
+### Problem Statement #2
+
+On-campus IIT students get notified when their clothes are removed from the washer/dryer and have the ability to message other students regarding laundry to avoid losing clothing items.
+
+-----------------------------
+
+## Customer Information
+
+### Description
+On-Campus IIT Students
+
+### Demographic
+IIT Undergraduate and Graduate students 
+
+### Other Customer(s) or Stakeholders(s)
+Administration, Machine company, Maintenance department
+
+-----------------------------
+
+## Application Information
+
+### Application Type
+Mobile App or Web App
+
+### Tech Stack 
+MERN - MongoDB, Express, React, Node
+
+### Top Application Capabilities
+
+1. Ability to reserve washer/dryer
+
+2. Timer for when it is ready
+
+3. Show availability of machines
+
+4. Notification for laundry completion
+
+5. Notification for when laundry is removed from the machine
+
+6. Message system for on-campus students doing laundry
+
+-----------------------------
 
 ## Top Two to Three Scenarios
 -----------------------------
