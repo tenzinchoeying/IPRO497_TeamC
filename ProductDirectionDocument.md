@@ -1,3 +1,30 @@
+# Product Direction Document
+
+## Problem Statements
+
+### Problem Statement #1
+
+The current laundry system at IIT is causing a major inconvenience to residents on campus due to lack of machine availability, timeliness on removing clothing, and easily reporting maintenance issues. However, with our solution, on-campus IIT students can make reservations, check the status of the laundry machines, and get frequent notifications of their laundry cycle to maximize free time for themselves. 
+
+### Problem Statement #2
+
+On-campus IIT students get notified when their clothes are removed from the washer/dryer and have the ability to message other students regarding laundry to avoid losing clothing items.
+
+-----------------------------
+
+## Customer Information
+
+### Description
+On-Campus IIT Students
+
+### Demographic
+IIT Undergraduate and Graduate students 
+
+### Other Customer(s) or Stakeholders(s)
+Administration, Machine company, Maintenance department
+
+-----------------------------
+
 ## Persona 1
 
 ![Persona 1](/images/p1.png)
@@ -55,32 +82,6 @@
 **Story**
 
 -   Sally’s lives in Kacek Hall. From Monday to Friday, she is out of her room most of the day due to classes. She leaves her dorm around 8 AM and comes back around 5 PM. When she gets back, she goes to the dining hall for dinner and hangs out with her friends. She comes back around 8 PM and gets ready for the night. When the weekend comes around, she goes to the library on Saturday to finish her homework. Every Sunday of the week, she does Laundry at 9 PM. Sally gets very annoyed that a lot of students do their laundry on Sunday, but she can’t do anything about it since that’s the only day and time that works for her from her busy schedule. She comes downstairs only to see that all the washers are full, 2 are out of order, and others are sitting with clothes, waiting for someone to pick them up. She gets frustrated and takes out clothes from a washer that has been done. She is very uncomfortable in doing this because she feels filthy from touching someone else’s undergarments, and is angry that her washer wasn’t available at the exact time she does her laundry.
-
-
------------------------------
-
-## Problem Statements
-
-### Problem Statement #1
-
-The current laundry system at IIT is causing a major inconvenience to residents on campus due to lack of machine availability, timeliness on removing clothing, and easily reporting maintenance issues. However, with our solution, on-campus IIT students can make reservations, check the status of the laundry machines, and get frequent notifications of their laundry cycle to maximize free time for themselves. 
-
-### Problem Statement #2
-
-On-campus IIT students get notified when their clothes are removed from the washer/dryer and have the ability to message other students regarding laundry to avoid losing clothing items.
-
------------------------------
-
-## Customer Information
-
-### Description
-On-Campus IIT Students
-
-### Demographic
-IIT Undergraduate and Graduate students 
-
-### Other Customer(s) or Stakeholders(s)
-Administration, Machine company, Maintenance department
 
 -----------------------------
 
