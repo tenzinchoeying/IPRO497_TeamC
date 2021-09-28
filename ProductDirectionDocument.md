@@ -109,7 +109,6 @@ MERN - MongoDB, Express, React, Node
 -----------------------------
 
 ## Top Two to Three Scenarios
------------------------------
 
 ### Your Scenario #1
 
@@ -126,7 +125,6 @@ Mike lives in Kacek and needs to do his laundry. He opens the app and notices th
 -----------------------------
 
 ## Team Members
-----------------
 
 | Name | Location | Time zone offset from Chicago (Chicago is 0 offset) |
 | --------------- | --------------- | --------------- |
@@ -139,7 +137,6 @@ Mike lives in Kacek and needs to do his laundry. He opens the app and notices th
 -----------------------------
 
 ## Team Working Agreement
--------------------------
 
 1. We will use Github and keep items updated as progress is made
 
