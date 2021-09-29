@@ -147,7 +147,7 @@ Mike lives in Kacek and needs to do his laundry. He opens the app and notices th
 
 4. When we are not meeting together we will use the following tool/tech for communications: Google Hangout
 
-5. Try avoiding speaking over each other
+5. Try avoiding speaking over each other (Raise hand on Collaborate if you need to interject)
 
 6. Have a balanced contribution to the discussion; call names for anyone you believe needs to speak more
 
