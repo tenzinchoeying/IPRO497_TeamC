@@ -163,7 +163,7 @@ Mike lives in Kacek and needs to do his laundry. He opens the app and notices th
 
 -   Leading the group during class to get assignments done 
 
--   Catching up absent member(s) by emailing them after class
+-   Catching up absent member(s) by emailing them after class (If not in class 5 minutes after start, message absentee so they are not marked absent)
 
 -   Defusing any conflicts between members
 
