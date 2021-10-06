@@ -1,5 +1,5 @@
 # IPRO497_TeamC
-## Illinois Tech
+## [![Illinois Tech] (www.iit.edu)
 ## IPRO 497-616
 
 
