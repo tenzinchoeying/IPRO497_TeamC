@@ -9,6 +9,8 @@
 - Tenzin Choeying
 - Thomas Carmody
 - Vedant Vashishtha
+
+[Product Direction Document](documents/ProductDirectionDocument.md "Product Direction Document")
 --------------------------
 
 #### Visit "projects" tab to view our Kanban board.
