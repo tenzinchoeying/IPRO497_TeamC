@@ -1,4 +1,4 @@
-# IPRO497_TeamC
+# IPRO497 TeamC
 ## [Illinois Tech](https://www.iit.edu)
 ## [IPRO 497-616](https://ipro.iit.edu/)
 --------------------------
