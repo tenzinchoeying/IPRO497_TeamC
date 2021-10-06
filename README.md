@@ -5,7 +5,7 @@
 **Team C**
 - Enis Masic
 - Safa Slote
-- Tenzin Choeying
+- [Tenzin Choeying](https://www.linkedin.com/in/tenzinchoeying)
 - Thomas Carmody
 - Vedant Vashishtha
 --------------------------
