@@ -11,5 +11,5 @@
 - Vedant Vashishtha
 --------------------------
 
-####Visit "projects" tab to view our Kanban board.
-#####Important links: https://app.gh-polls.com/ used for polls on Kanban. 
+#### Visit "projects" tab to view our Kanban board.
+##### Important links: https://app.gh-polls.com/ used for polls on Kanban. 
