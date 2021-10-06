@@ -10,7 +10,8 @@
 - Thomas Carmody
 - Vedant Vashishtha
 
-[Product Direction Document](documents/ProductDirectionDocument.md "Product Direction Document")
+
+[![Product Direction Document](<img src="images/PDD.png">)](documents/ProductDirectionDocument.md "Product Direction Document")
 --------------------------
 
 #### Visit "projects" tab to view our Kanban board.
