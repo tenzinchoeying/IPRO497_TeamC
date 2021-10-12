@@ -1,3 +1,5 @@
+# [IPRO Team C](https://github.com/tenzinchoeying/IPRO497_TeamC)
+
 # Product Direction Document
 
 ## Problem Statements
@@ -170,3 +172,5 @@ Mike lives in Kacek and needs to do his laundry. He opens the app and notices th
 -   Personally reaching out to members who are inactive during class/assignments 
 
 -   Submits assignment due that week (if applicable and required only one)
+
+# [Back to main](https://github.com/tenzinchoeying/IPRO497_TeamC)
