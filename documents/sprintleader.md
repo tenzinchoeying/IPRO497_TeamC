@@ -10,4 +10,12 @@
 
 ## OCT 12th 
 ### _Tenzin_
-1.
+1. Enis and Safa presentation on database selection
+2. Tenzin and Vedant presentation on wireframe and layout
+3. Thomas logo design show/work on it in class
+4. Everyone download android studio
+5. Discuss kanban
+  * Go over midterm presentation slides
+  * Assign pages
+  * Assign slides
+  * Schedule meet up
