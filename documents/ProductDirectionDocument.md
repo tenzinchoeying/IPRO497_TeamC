@@ -119,7 +119,7 @@ Mike is a very busy student, on top of his schoolwork and soccer practices, he d
 
 ### Your Scenario #2
 
-Mike notices that there is a washing machine that is full of clothes and has finished its cycle. Sully received a notification 10 minutes prior, 5 minutes prior and when the cycle finished, however he wasn't able to transfer his clothes to a dryer on time because he was busy. Since Mike needed to do his laundry, Mike messages Sully via the app to inform him that his laundry is done and that he should come get his clothes. No more others touching Sully's laundry. 
+Mike notices that there is a washing machine that is full of clothes and has finished its cycle. Sally received a notification 10 minutes prior, 5 minutes prior and when the cycle finished, however he wasn't able to transfer his clothes to a dryer on time because he was busy. Since Mike needed to do his laundry, Mike messages Sally via the app to inform him that his laundry is done and that he should come get his clothes. No more others touching Sally's laundry. 
 
 ### Your Scenario #3
 
