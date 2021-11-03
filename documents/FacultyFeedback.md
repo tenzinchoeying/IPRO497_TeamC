@@ -36,7 +36,7 @@
 - The dry run and final presentation template are in content under the name - 
 - Final Presentation Template.pptx
 - Please submit Review the submission for the mid-term ipro update
-
+- Review stories to ensure you have what you need to complete scenarios one and two
 
 ## Week 12 ##
 
