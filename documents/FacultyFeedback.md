@@ -21,18 +21,22 @@
 ## Week 9 ##
 
 ## Week 10 ##
-- Feedback
-	- Feedback will be in FacultyFeedback.md each week
-	- Labels on home page should probably be the same size
-	- SQLlite for DB - make database design to support your two scenarios
-	- Consider tagging stories scenario#1 and scenario#2 so you know what you need to do for alignment with the end of the course
-	- There are some issues for Mac users in Android studio 
-		- advised creating a story to work through this
-		- Student mentioned bootcamp for Mac worked for them
-		- Suggested starting with a very small and simple example and getting it work on Mac and Windows 
-		- What have you done to address demo feedback?
+- Feedback will be in FacultyFeedback.md each week
+- Labels on home page should probably be the same size
+- SQLlite for DB - make database design to support your two scenarios
+- Consider tagging stories scenario#1 and scenario#2 so you know what you need to do for alignment with the end of the course
+- There are some issues for Mac users in Android studio 
+	- advised creating a story to work through this
+	- Student mentioned bootcamp for Mac worked for them
+	- Suggested starting with a very small and simple example and getting it work on Mac and Windows 
+- What have you done to address demo feedback?
 
 ## Week 11 ##
+- Moving the dry to 11/16 to allow more time to incorporate feedback
+- The dry run and final presentation template are in content under the name - 
+- Final Presentation Template.pptx
+- Please submit Review the submission for the mid-term ipro update
+
 
 ## Week 12 ##
 
