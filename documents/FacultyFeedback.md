@@ -39,6 +39,9 @@
 - Review stories to ensure you have what you need to complete scenarios one and two
 
 ## Week 12 ##
+- Focus on scenario demos not feature demos - we want see what users will accomplish through scenarios
+- Multiple presenters are fine even if it means screen swaps
+- Youcanbookme used for backing store for reservations - make sure it fits your look and feel and other parts of the app can integrate with in.
 
 ## Week 13 ##
 
