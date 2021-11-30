@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#A6A1A1"
+    tools:context=".Login">
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/sign_in_button"
+        android:layout_width="323dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginEnd="113dp"
+        android:layout_marginBottom="-319dp"></com.google.android.gms.common.SignInButton>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="169dp"
+        android:layout_height="212dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginEnd="113dp"
+        android:layout_marginBottom="343dp"
+        app:srcCompat="@drawable/hawkspin_logo1" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="171dp"
+        android:layout_height="110dp"
+        android:layout_above="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginEnd="113dp"
+        android:layout_marginBottom="-27dp"
+        app:srcCompat="@drawable/hawkimage" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="183dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="231dp"
+        android:layout_marginEnd="113dp"
+        android:layout_marginBottom="-514dp"
+        android:text="IPRO Fall 2021 - Team C" />
+
+
+</RelativeLayout>

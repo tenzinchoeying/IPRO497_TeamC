@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".laundry">
+
+    <Button
+        android:id="@+id/cun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cunningham Hall" />
+
+    <Button
+        android:id="@+id/gun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gunsaulus Hall" />
+
+    <Button
+        android:id="@+id/kac"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kacek Hall" />
+
+    <Button
+        android:id="@+id/msv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mccormick Student Village" />
+
+    <Button
+        android:id="@+id/rowe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rowe Village" />
+
+</LinearLayout>

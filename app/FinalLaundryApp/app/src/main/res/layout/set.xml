@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HawkSpin"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/white"
+        android:textSize="35dp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="175dp"
+        android:layout_height="137dp"
+        android:layout_below="@id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:src="@drawable/hawkspin_logo1" />
+
+    <Button
+        android:id="@+id/reportbut"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/icon"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="10dp"
+        android:text="Report Machine"
+        android:textColor="#FFFFFF" />
+
+
+    <Button
+        android:id="@+id/tacbut"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/reportbut"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Terms and Conditions"
+        android:textColor="#FFFFFF" />
+
+
+</RelativeLayout>

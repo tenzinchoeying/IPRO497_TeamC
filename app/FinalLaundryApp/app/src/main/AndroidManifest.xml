@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.laundryapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="laundryapp"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LaundryApp">
+        <activity
+            android:name=".tac_page"
+            android:exported="true" />
+        <activity
+            android:name=".set"
+            android:exported="true" />
+        <activity
+            android:name=".Maint"
+            android:exported="true" />
+        <activity
+            android:name=".Home"
+            android:exported="true" />
+        <activity
+            android:name=".Nav"
+            android:exported="true" />
+        <activity
+            android:name=".MSV"
+            android:exported="true" />
+        <activity
+            android:name=".Rowe"
+            android:exported="true" />
+        <activity
+            android:name=".Gun"
+            android:exported="true" />
+        <activity
+            android:name=".Kacek"
+            android:exported="true" />
+        <activity
+            android:name=".Cunning"
+            android:exported="true" />
+        <activity
+            android:name=".msvbook"
+            android:exported="true"/>
+        <activity
+            android:name=".laundry"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

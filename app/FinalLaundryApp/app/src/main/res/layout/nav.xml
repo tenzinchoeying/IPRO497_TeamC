@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Nav">
+
+    <Button
+        android:id="@+id/home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:gravity="top"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/laundry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/home"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="234dp"
+        android:layout_marginBottom="-317dp"
+        android:gravity="center_vertical"
+        android:text="Laundry"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/res"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/home"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="157dp"
+        android:layout_marginBottom="-317dp"
+        android:gravity="center_vertical"
+        android:text="Reservation"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/maint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/home"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="78dp"
+        android:layout_marginBottom="-317dp"
+        android:gravity="center_vertical"
+        android:text="Maintenance"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/set"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/home"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="314dp"
+        android:layout_marginBottom="-317dp"
+        android:gravity="center_vertical"
+        android:text="Settings"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/so"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/home"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="546dp"
+        android:layout_marginBottom="-317dp"
+        android:gravity="center_vertical"
+        android:text="Sign Out"
+        android:textSize="20dp" />
+</RelativeLayout>
