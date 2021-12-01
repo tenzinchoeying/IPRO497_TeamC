@@ -1,9 +1,9 @@
-# HERE IS THE FINAL APP SOURCE CODE DONE BY IPRO FALL 2021 - TEAM C
+# THE FINAL APP SOURCE CODE BY IPRO FALL 2021 - TEAM C
 
 ## THE APP CONSISTS OF THE FOLLOWING:
 
-- **Google Sign In**
-- **Home page** consists of google account info
+- **Login page** consists of Google sign in
+- **Home page** consists of Google account info
 - **Reservation page** consists of making laundry reservations 
 - **Maintenance page** consists of filling up google form to request maintence issue
 - **Laundry page** consists of list of dorms and their laundy machines status 
